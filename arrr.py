@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 #-*- coding: utf-8 -*-
 """
-arrr is using archiveready.org's api
+arrr is a wrapper for archiveready.org's api
 """
 
 __version__ = "0.1"
